@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://cecilapp.github.io/the-butler/tags/film/</id>
-  <title>The Butler - Film</title>
-  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <title>Jessica Jou - Film</title>
+  <subtitle><![CDATA[fuck u jessica]]></subtitle>
   <link href="https://cecilapp.github.io/the-butler/tags/film/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/the-butler/tags/film/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <updated>2020-03-08T19:00:00-05:00</updated>
   <author>
-    <name>The Butler</name>
+    <name>Jessica Jou</name>
     <uri>https://cecilapp.github.io/the-butler/</uri>
   </author>
   <entry xml:lang="en">
@@ -23,7 +23,7 @@
 </blockquote>]]>
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/princess-mononoke/" rel="alternate" type="text/html" />
-    <published>2020-03-09T01:00:00+01:00</published>
-    <updated>2020-03-09T01:00:00+01:00</updated>
+    <published>2020-03-08T19:00:00-05:00</published>
+    <updated>2020-03-08T19:00:00-05:00</updated>
   </entry>
 </feed>
