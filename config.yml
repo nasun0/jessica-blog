@@ -11,7 +11,7 @@ author: Arnaud Ligny
 description: fuck u jessica
 date:
   format: j F Y
-  timezone: Central
+  timezone: America/Chicago
 hyde:
   sidebar:
     sticky: true
